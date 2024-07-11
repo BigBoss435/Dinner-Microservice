@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Dinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Dinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "Dinner.Infrastructure.dll": {}
+        }
+      },
+      "Dinner.Application/1.0.0": {
+        "dependencies": {
+          "Dinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Dinner.Application.dll": {}
+        }
+      },
+      "Dinner.Domain/1.0.0": {
+        "runtime": {
+          "Dinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

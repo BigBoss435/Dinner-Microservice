@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Dinner.Api/1.0.0": {
+        "dependencies": {
+          "Dinner.Application": "1.0.0",
+          "Dinner.Contracts": "1.0.0",
+          "Dinner.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Dinner.Api.dll": {}
+        }
+      },
+      "Dinner.Application/1.0.0": {
+        "dependencies": {
+          "Dinner.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Dinner.Application.dll": {}
+        }
+      },
+      "Dinner.Contracts/1.0.0": {
+        "runtime": {
+          "Dinner.Contracts.dll": {}
+        }
+      },
+      "Dinner.Domain/1.0.0": {
+        "runtime": {
+          "Dinner.Domain.dll": {}
+        }
+      },
+      "Dinner.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Dinner.Application": "1.0.0"
+        },
+        "runtime": {
+          "Dinner.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dinner.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinner.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinner.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinner.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinner.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

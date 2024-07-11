@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Dinner.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Dinner.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dinner.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dinner.Application.dll": {}
+        }
+      },
+      "Dinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Dinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dinner.Application/1.0.0": {
+      "type": "project",
+      "path": "../Dinner.Application/Dinner.Application.csproj",
+      "msbuildProject": "../Dinner.Application/Dinner.Application.csproj"
+    },
+    "Dinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Dinner.Domain/Dinner.Domain.csproj",
+      "msbuildProject": "../Dinner.Domain/Dinner.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Dinner.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/deividas.kalvelis/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Infrastructure/Dinner.Infrastructure.csproj",
+      "projectName": "Dinner.Infrastructure",
+      "projectPath": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Infrastructure/Dinner.Infrastructure.csproj",
+      "packagesPath": "/Users/deividas.kalvelis/.nuget/packages/",
+      "outputPath": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/deividas.kalvelis/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Application/Dinner.Application.csproj": {
+              "projectPath": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Application/Dinner.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
