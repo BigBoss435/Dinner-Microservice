@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "x/2/LybKFCjksxXlQSiVOMLw00k9Smt4GYHcXOGeGdlJqwfUgydgubWS91Wl0CvSkoGGk141Mu9Jglhk2tqRxA==",
+  "dgSpecHash": "EMZaQvpPxWzpIxImIg+jVm9SGP0McPnWmnJwnIM/7jw9eK29BKaPB8IE6Nm03XOI4gCEHnS97a5LpD56CSbcVw==",
   "success": true,
   "projectFilePath": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Domain/Dinner.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/deividas.kalvelis/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
