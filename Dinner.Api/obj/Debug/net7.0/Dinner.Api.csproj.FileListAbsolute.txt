@@ -102,3 +102,14 @@
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/obj/Debug/net7.0/Dinner.Api.genruntimeconfig.cache
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/obj/Debug/net7.0/ref/Dinner.Api.dll
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
