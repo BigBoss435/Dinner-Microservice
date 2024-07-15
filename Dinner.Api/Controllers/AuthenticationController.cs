@@ -1,3 +1,4 @@
+using Dinner.Api.Filters;
 using Dinner.Application.Services.Authentication;
 using Dinner.Contracts.Authentication;
 using Microsoft.AspNetCore.Mvc;
