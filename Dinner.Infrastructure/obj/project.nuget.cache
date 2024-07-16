@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CmGc62HH3rA0co8gh729HXvFwfcLnFuDPJmaXhzTyuzglbaG/4qLOziuf4BfutyHNF73b4MTvhGi2ebgL3KMUQ==",
+  "dgSpecHash": "4fzsve021Wtu3S/bsIrQQaYzNvjJW56ujtnWjcSFjZ4JuKscwquB65uEL7WNWqhdPJ/VKgf+JaZr3+v0UIH0ZQ==",
   "success": true,
   "projectFilePath": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Infrastructure/Dinner.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "/Users/deividas.kalvelis/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
     "/Users/deividas.kalvelis/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/deividas.kalvelis/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/deividas.kalvelis/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",

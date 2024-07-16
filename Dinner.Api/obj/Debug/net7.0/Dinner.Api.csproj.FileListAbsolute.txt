@@ -113,3 +113,4 @@
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/ErrorOr.dll

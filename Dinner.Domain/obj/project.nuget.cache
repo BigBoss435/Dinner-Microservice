@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Na3+yr9i0YMCo18EBCWTY2efb875wKeY0cbx9gAID2JQYTj5f4Bg7/RqcdEZI6Snwgx+RecbYrOZaUlWActMiw==",
+  "dgSpecHash": "E61o0Hxiq38LLSGu6rwDr2/u/fSV7QSP+hHmVZ9eqYPaUwfQwty+nqvpmzBca1tUOisJY7WD2hiJeSJYm01Pcw==",
   "success": true,
   "projectFilePath": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Domain/Dinner.Domain.csproj",
   "expectedPackageFiles": [
+    "/Users/deividas.kalvelis/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
     "/Users/deividas.kalvelis/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/deividas.kalvelis/.nuget/packages/microsoft.extensions.configuration/1.0.0/microsoft.extensions.configuration.1.0.0.nupkg.sha512",
     "/Users/deividas.kalvelis/.nuget/packages/microsoft.extensions.configuration.abstractions/1.0.0/microsoft.extensions.configuration.abstractions.1.0.0.nupkg.sha512",
