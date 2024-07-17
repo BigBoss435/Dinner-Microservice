@@ -114,3 +114,6 @@
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/ErrorOr.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/MediatR.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Api/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4fzsve021Wtu3S/bsIrQQaYzNvjJW56ujtnWjcSFjZ4JuKscwquB65uEL7WNWqhdPJ/VKgf+JaZr3+v0UIH0ZQ==",
+  "dgSpecHash": "hw8OaaAURbbIAAdGVDWEIX+YIkY7IV3RVsPX8Hoi4M/ab/5IpVn5zX+NTQW/3+2Ys8msygIfozpQLbXeW66MGQ==",
   "success": true,
   "projectFilePath": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Infrastructure/Dinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/deividas.kalvelis/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/Users/deividas.kalvelis/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/deividas.kalvelis/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/deividas.kalvelis/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/deividas.kalvelis/.nuget/packages/microsoft.extensions.configuration/8.0.0/microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "/Users/deividas.kalvelis/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/deividas.kalvelis/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
