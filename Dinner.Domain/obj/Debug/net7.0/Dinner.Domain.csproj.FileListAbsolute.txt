@@ -34,3 +34,16 @@
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Domain/obj/Debug/net7.0/refint/Dinner.Domain.dll
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Domain/obj/Debug/net7.0/Dinner.Domain.pdb
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Domain/obj/Debug/net7.0/ref/Dinner.Domain.dll
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\bin\Debug\net7.0\Dinner.Domain.deps.json
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\bin\Debug\net7.0\Dinner.Domain.dll
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\bin\Debug\net7.0\Dinner.Domain.pdb
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\Dinner.Domain.csproj.AssemblyReference.cache
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\Dinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\Dinner.Domain.AssemblyInfoInputs.cache
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\Dinner.Domain.AssemblyInfo.cs
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\Dinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\Dinner.Domain.sourcelink.json
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\Dinner.Domain.dll
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\refint\Dinner.Domain.dll
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\Dinner.Domain.pdb
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Domain\obj\Debug\net7.0\ref\Dinner.Domain.dll

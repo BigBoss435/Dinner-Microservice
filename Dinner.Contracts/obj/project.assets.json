@@ -8,24 +8,32 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/deividas.kalvelis/.nuget/packages/": {}
+    "C:\\Users\\DeividasK\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Contracts/Dinner.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\DeividasK\\Documents\\GitHub\\Dinner-Microservice\\Dinner.Contracts\\Dinner.Contracts.csproj",
       "projectName": "Dinner.Contracts",
-      "projectPath": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Contracts/Dinner.Contracts.csproj",
-      "packagesPath": "/Users/deividas.kalvelis/.nuget/packages/",
-      "outputPath": "/Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Contracts/obj/",
+      "projectPath": "C:\\Users\\DeividasK\\Documents\\GitHub\\Dinner-Microservice\\Dinner.Contracts\\Dinner.Contracts.csproj",
+      "packagesPath": "C:\\Users\\DeividasK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DeividasK\\Documents\\GitHub\\Dinner-Microservice\\Dinner.Contracts\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/deividas.kalvelis/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\DeividasK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dinner.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acc01a698363ed1f8d35cffc670e7ce3e2d00825")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dinner.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dinner.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

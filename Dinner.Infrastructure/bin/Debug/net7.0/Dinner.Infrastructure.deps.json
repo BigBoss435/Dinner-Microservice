@@ -194,7 +194,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
         },
         "runtime": {
-          "Dinner.Application.dll": {}
+          "Dinner.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Dinner.Domain/1.0.0": {
@@ -205,7 +208,10 @@
           "System.IdentityModel.Tokens.Jwt": "7.6.3"
         },
         "runtime": {
-          "Dinner.Domain.dll": {}
+          "Dinner.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

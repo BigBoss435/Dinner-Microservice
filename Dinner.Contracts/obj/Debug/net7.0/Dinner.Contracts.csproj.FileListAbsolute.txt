@@ -10,3 +10,15 @@
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Contracts/obj/Debug/net7.0/refint/Dinner.Contracts.dll
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Contracts/obj/Debug/net7.0/Dinner.Contracts.pdb
 /Users/deividas.kalvelis/Documents/GitHub/Dinner-Microservice/Dinner.Contracts/obj/Debug/net7.0/ref/Dinner.Contracts.dll
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\bin\Debug\net7.0\Dinner.Contracts.deps.json
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\bin\Debug\net7.0\Dinner.Contracts.dll
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\bin\Debug\net7.0\Dinner.Contracts.pdb
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\obj\Debug\net7.0\Dinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\obj\Debug\net7.0\Dinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\obj\Debug\net7.0\Dinner.Contracts.AssemblyInfo.cs
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\obj\Debug\net7.0\Dinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\obj\Debug\net7.0\Dinner.Contracts.sourcelink.json
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\obj\Debug\net7.0\Dinner.Contracts.dll
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\obj\Debug\net7.0\refint\Dinner.Contracts.dll
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\obj\Debug\net7.0\Dinner.Contracts.pdb
+C:\Users\DeividasK\Documents\GitHub\Dinner-Microservice\Dinner.Contracts\obj\Debug\net7.0\ref\Dinner.Contracts.dll

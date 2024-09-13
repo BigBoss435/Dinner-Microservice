@@ -1,17 +1,15 @@
 using Dinner.Application;
 using Dinner.Infrastructure;
-using Microsoft.AspNetCore.Mvc.Infrastructure;
-using Dinner.Api.Common.Errors;
+using Dinner.Api;
 
 var builder = WebApplication.CreateBuilder(args);
 {
     builder.Services
+    .AddPresentation()
     .AddApplication()
     .AddInfrastructure(builder.Configuration);
-    builder.Services.AddControllers();
-
-    builder.Services.AddSingleton<ProblemDetailsFactory, DinnerProblemDetailsFactory>();
 }
+
 var app = builder.Build();
 {
     app.UseExceptionHandler("/error");

@@ -714,7 +714,10 @@
           "System.IdentityModel.Tokens.Jwt": "5.0.0"
         },
         "runtime": {
-          "Dinner.Domain.dll": {}
+          "Dinner.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
